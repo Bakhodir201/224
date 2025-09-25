@@ -1,0 +1,28 @@
+.nav_list{
+    display: flex;
+    list-style: none;     
+    justify-content: center;
+    gap: 124px;              
+}
+a{
+    text-decoration: none;
+}       
+.name1{
+    text-align: center;
+}
+.box{
+    background-color: red;
+    width: 400px;
+    height: 300px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.parent{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    margin-bottom: 100px;
+}
